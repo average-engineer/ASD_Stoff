@@ -1,0 +1,1 @@
+# Material for Advanced Structural Dynamics Masterclasses
